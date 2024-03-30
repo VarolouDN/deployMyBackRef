@@ -1,0 +1,5 @@
+{
+  "SERVER_PORT":"5000",
+  "DB_URL":"mongodb+srv://varolou:5gRLitUDwPmSmOAv@cloud.upwzkiy.mongodb.net/?retryWrites=true&w=majority",
+  "SECRET_KEY": "articles-secret-key"
+}
